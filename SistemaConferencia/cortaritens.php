@@ -1,5 +1,5 @@
 <?php
-
+//teste
 include "../conexaophp.php";
 session_start();
 
