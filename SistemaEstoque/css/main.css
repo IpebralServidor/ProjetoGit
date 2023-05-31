@@ -1,0 +1,47 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background-color: #FFFFFD;
+	align-items: center;
+}
+
+.conteudo {
+	width: 60%;
+	height: 50%;
+	background-color: #E1F3FA;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	border-radius: 10%;
+}
+
+label {
+	width: 100%;
+	text-align: center;
+}
+
+input {
+	margin-top: 2%;
+}
+
+
+/*.container {
+	width: 100%;
+	height: 100%;
+}
+
+.conteudo {
+	width: 50%;
+	height: 50%;
+	background-color: green;
+	margin: 0 auto 0 auto;
+}*/
